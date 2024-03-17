@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CMSK-0157-FS11-Assignment-2(c#)/1.0.0": {
+        "runtime": {
+          "CMSK-0157-FS11-Assignment-2(c#).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CMSK-0157-FS11-Assignment-2(c#)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

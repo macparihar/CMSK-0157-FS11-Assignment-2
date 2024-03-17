@@ -1,0 +1,14 @@
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\bin\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).exe
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\bin\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).deps.json
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\bin\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).runtimeconfig.json
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\bin\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).dll
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\bin\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).pdb
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).GeneratedMSBuildEditorConfig.editorconfig
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).AssemblyInfoInputs.cache
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).AssemblyInfo.cs
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).csproj.CoreCompileInputs.cache
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).dll
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\refint\CMSK-0157-FS11-Assignment-2(c#).dll
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).pdb
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\CMSK-0157-FS11-Assignment-2(c#).genruntimeconfig.cache
+D:\MacEwan\C#\CMSK-0157-FS11-Assignment-2(c#)\obj\Debug\net8.0\ref\CMSK-0157-FS11-Assignment-2(c#).dll
